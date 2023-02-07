@@ -1,0 +1,21 @@
+* {
+    color: black;
+}
+
+.zagolovok {
+   color: rgb(8, 159, 235); 
+}
+
+#indetifikator {
+    color: blueviolet;
+}
+
+p, b {
+   color: rgb(20, 191, 43);
+}
+
+a {
+    color: rgb(103, 34, 49);
+}
+
+
